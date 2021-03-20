@@ -1,4 +1,470 @@
-h1 {
+
+
+.header {
+background-image: url(../images/header1.jpg);
+    background-size:contain;
+    background-repeat: no-repeat;
+    min-height: 700px;
+    background-color: white; 
+    margin-left: 0px; 
+    margin-right: 0px; 
+    background-position:bottom; 
+    margin-bottom: 150px;
+    }
+.header3 {
+background-image: url(../images/header3.png);
+    background-size:contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 400px;
+    min-width: 300px;
+    background-color: white; 
+    margin-top: 0px;
+    margin-left: 0px; 
+    margin-right: 0px; 
+    margin-bottom: 70px;
+    align-content: center;
+    }
+
+body {
     
-    color: aqua;
+background-color:ghostwhite;
 }
+
+.comic {
+    text-align: center; 
+    padding-top: 50px;
+    background-color: white;
+    height: 1250px;
+
+}
+
+h1 {
+   text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-bottom: 50px;
+    
+}
+
+h2 {
+   text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px; 
+    
+}
+
+h3 {
+   text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-bottom: 50px;
+      margin-top: 50px; 
+    
+}
+
+h4 {
+   text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-bottom: 50px;
+      margin-top: 50px; 
+    
+}
+
+h5 {
+   text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-bottom: 50px;
+      margin-top: 50px; 
+    
+}
+
+h6 {
+   text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-bottom: 50px;
+      margin-top: 50px; 
+    
+}
+
+.item {
+border-radius: 2px;
+}
+
+.comic1 {
+background-image:url(../images/gif1comic.gif);
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+margin-bottom: 20px;
+
+
+
+
+}
+
+.comic2 {
+background-image:url(../images/webcomictest2.png);
+min-height: 275px;
+min-width: 275px;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+margin-bottom: 20px;
+
+
+
+}
+
+.comic3 {
+background-image:url(../images/webcomictest3.png);
+min-height: 275px;
+min-width: 275px;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+margin-bottom: 20px;
+
+
+}
+
+.comic4 {
+background-image:url(../images/webcomictest.png);
+min-height: 275px;
+min-width: 275px;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+margin-bottom: 150px;
+
+}
+
+.comic5 {
+background-image: url(../images/littletown1.jpg);
+min-height: 300px;
+min-width: 550px;
+background-color: transparent;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+align-items: center;
+margin-bottom: 50px;
+
+
+
+
+}
+
+.comic6 {
+background-image:url(../images/animationlightningglare.gif);
+min-height: 300px;
+min-width: 550px;
+background-color: transparent;
+background-position: center;
+background-repeat: no-repeat;
+background-size: contain;
+align-content: center;
+align-items: center;
+margin-bottom: 50px;
+
+
+
+
+
+}
+
+.comic7 {
+background-image:url(../images/littletown2.jpg);
+min-height: 300px;
+min-width: 550px;
+background-color: transparent;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+align-items: center;
+margin-bottom: 50px;
+background-size: contain;
+
+
+
+
+}
+
+.comic8 {
+background-image: url(../images/webcomic-Recovered.jpg);
+min-height: 500px;
+min-width: 550px;
+background-color: transparent;
+background-position: bottom;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+margin-bottom: 150px;
+
+
+
+}
+
+.comica {
+background-image:url(../images/cactus1.jpg);
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+.comicb {
+background-image:url(../images/tumbleweed.gif);
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px;}
+
+.comicc {
+background-image:url(../images/cactus3.jpg);
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px;}
+
+.comicd {
+background-image:url(../images/cactus4.jpg);
+min-height: 275px;
+min-width: 300px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+margin-bottom: 10px;}
+
+.comica2 {
+background-image:url(../images/saloon1.jpg);
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+.comicb2 {
+background-image:url(../images/saloon.png);
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+.comicc2 {
+background-image:url(../images/salooncowboy.gif);
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+.comicd2 {
+background-image:url(../images/saloon3.jpg);
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 150px; }
+
+.comica3 {
+background-image:;
+min-height: 500px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+
+
+.comicb3 {
+background-image:;
+min-height: 500px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+.comicc3 {
+background-image:;
+min-height: 500px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+.comicd3 {
+background-image:;
+min-height: 500px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 150px; }
+
+.comica4 {
+background-image:;
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+.comicb4 {
+background-image:;
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+.comicc4 {
+background-image:;
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 20px; }
+
+.comicd4 {
+background-image:;
+min-height: 275px;
+min-width: 275px;;
+background-color: white;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+    margin-bottom: 150px; }
+
+.music1{
+background-position: center;
+padding-top: 110px;
+background-size: contain;
+padding-bottom: 110px;
+ display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#player {
+    width: 50%;
+}
+
+.music2 {
+background-position: center;
+padding-top:0px;
+padding-bottom: 50px;
+ display: flex;
+  justify-content: center;
+    align-items: center;
+}
+
+#player2 {
+    width: 30%;}
+
+.music3 {
+background-position: center;
+padding-top: 260px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#player3 {
+    width: 60%;
+height: 20px;}
+
+.music4 {
+background-position: center;
+padding-top: 250px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+#player4 {
+    width: 50%;
+height: 20px;}
