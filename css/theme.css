@@ -9,11 +9,11 @@ background-image: url(../images/header1.jpg);
     margin-left: 0px; 
     margin-right: 0px; 
     background-position:bottom; 
-    margin-bottom: 150px;
     }
 .header3 {
-background-image: url(../images/header3.png);
+background-image: url(../images/header3.jpg);
     background-size:contain;
+    background-color: ghostwhite;
     background-position: center;
     background-repeat: no-repeat;
     min-height: 400px;
@@ -90,6 +90,15 @@ h6 {
     margin-bottom: 50px;
       margin-top: 50px; 
     
+}
+
+p {
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-bottom: 50px;
+      margin-top: 50px;
+ 
 }
 
 .item {
@@ -252,7 +261,7 @@ background-repeat: no-repeat;
 .comicc {
 background-image:url(../images/cactus3.jpg);
 min-height: 275px;
-min-width: 275px;;
+min-width: 275px;
 background-color: white;
 background-position: center;
 background-size: contain;
@@ -264,7 +273,7 @@ background-repeat: no-repeat;
 .comicd {
 background-image:url(../images/cactus4.jpg);
 min-height: 275px;
-min-width: 300px;;
+min-width: 300px;
 background-color: white;
 background-position: center;
 background-size: contain;
@@ -288,7 +297,7 @@ background-repeat: no-repeat;
 .comicb2 {
 background-image:url(../images/saloon.png);
 min-height: 275px;
-min-width: 275px;;
+min-width: 275px;
 background-color: white;
 background-position: center;
 background-size: contain;
@@ -322,10 +331,10 @@ background-repeat: no-repeat;
     margin-bottom: 150px; }
 
 .comica3 {
-background-image:;
-min-height: 500px;
-min-width: 275px;;
-background-color: white;
+background-image:url(../images/skulls.jpg);
+min-height: 360px;
+min-width: 360px;
+background-color: transparent;
 background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
@@ -336,28 +345,30 @@ background-repeat: no-repeat;
 
 
 .comicb3 {
-background-image:;
-min-height: 500px;
-min-width: 275px;;
-background-color: white;
+background-image:url(../images/skull2.jpg);
+min-height: 360px;
+min-width: 360px;
+background-color: transparent;
 background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
 align-content: center;
 background-repeat: no-repeat;
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+margin-top: 14px;}
 
 .comicc3 {
-background-image:;
-min-height: 500px;
-min-width: 275px;;
-background-color: white;
+background-image:url(../images/skulls.gif); 
+min-height: 360px;
+min-width: 360px;
+background-color: transparent;
 background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
 align-content: center;
 background-repeat: no-repeat;
-    margin-bottom: 20px; }
+    margin-bottom: 20px;
+margin-top: 14px;}
 
 .comicd3 {
 background-image:;
@@ -372,52 +383,101 @@ background-repeat: no-repeat;
     margin-bottom: 150px; }
 
 .comica4 {
-background-image:;
-min-height: 275px;
-min-width: 275px;;
-background-color: white;
+background-image: url(../images/cwboygun1.jpg);
+min-height: 400px;
+min-width: 400px;
+background-color: transparent;
 background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
 align-content: center;
-background-repeat: no-repeat;
-    margin-bottom: 20px; }
+align-items: center;
+margin-bottom: 50px
+}
 
 .comicb4 {
-background-image:;
-min-height: 275px;
-min-width: 275px;;
-background-color: white;
+background-image: url(../images/gun2.jpg);
+min-height: 400px;
+min-width: 400px;
+background-color: transparent;
 background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
 align-content: center;
-background-repeat: no-repeat;
-    margin-bottom: 20px; }
+align-items: center;
+margin-bottom: 50px }
 
 .comicc4 {
-background-image:;
-min-height: 275px;
-min-width: 275px;;
-background-color: white;
+background-image: url(../images/sweatdropyellow.gif);
+min-height: 400px;
+min-width: 500px;
+background-color: transparent;
 background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
 align-content: center;
-background-repeat: no-repeat;
-    margin-bottom: 20px; }
+align-items: center;
+margin-bottom: 50px}
 
 .comicd4 {
-background-image:;
-min-height: 275px;
-min-width: 275px;;
-background-color: white;
+background-image: url(../images/gun.jpg);
+min-height: 400px;
+min-width: 400px;
+background-color: transparent;
 background-position: center;
 background-size: contain;
 background-repeat: no-repeat;
 align-content: center;
+align-items: center;
+margin-bottom: 150px}
+
+.comica5 {
+background-image: url(../images/whosyourfriend1.jpg);
+min-height: 500px;
+min-width: 500px;
+background-color: transparent;
+background-position: center;
+background-size: contain;
 background-repeat: no-repeat;
-    margin-bottom: 150px; }
+align-content: center;
+align-items: center;
+margin-bottom: 50px }
+
+.comicb5 {
+background-image: url(../images/whosyourfriend2.jpg);
+min-height: 500px;
+min-width: 500px;
+background-color: transparent;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+align-items: center;
+margin-bottom: 50px }
+
+.comicc5 {
+background-image: url(../images/skulls.jpg);
+min-height: 500px;
+min-width: 500px;
+background-color: transparent;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+align-items: center;
+margin-bottom: 50px }
+
+.comicd5 {
+background-image: url(../images/shock.gif);
+min-height: 500px;
+min-width: 500px;
+background-color: transparent;
+background-position: center;
+background-size: contain;
+background-repeat: no-repeat;
+align-content: center;
+align-items: center;
+margin-bottom: 50px }
 
 .music1{
 background-position: center;
@@ -468,3 +528,84 @@ align-items: center;
 #player4 {
     width: 50%;
 height: 20px;}
+
+.music5{
+background-position: center;
+padding-top: 170px;
+background-size: contain;
+padding-bottom: 170px;
+ display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#player5 {
+    width: 30%;
+}
+
+.music6{
+background-position: center;
+background-size: contain;
+display: flex;
+  justify-content: center;
+  align-items: center;
+padding-bottom:0px;
+padding-top: 370px;
+
+}
+
+#player6 {
+    width: 60%;
+    height: 20px;}
+    
+    .music7{
+background-position: center;
+background-size: contain;
+display: flex;
+  justify-content: center;
+  align-items: center;
+padding-bottom:0px;
+padding-top: 30px;
+
+}
+
+#player7 {
+    width: 40%;
+    height: 20px;}
+    
+    .footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+min-height:  height:51px;
+  background-color:transparent;
+        color: blueviolet;
+display: flex;
+  justify-content: center;
+  align-items: center;}
+
+.footer2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    font-family: 'Fredoka One', cursive;
+min-height:51px;
+  background-color:transparent;
+        color: blueviolet;
+display: flex;
+  justify-content: center;
+  align-items: center;}
+
+.footer3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    font-family: 'Fredoka One', cursive;
+min-height:51px;
+  background-color:transparent;
+        color:blueviolet;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
