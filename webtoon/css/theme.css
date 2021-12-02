@@ -1,0 +1,590 @@
+.header {
+background-image: url(../images/header.jpg);
+background-size:contain;
+background-position: center;
+background-repeat: no-repeat;
+min-height: 400px;
+min-width: 300px;
+margin-top: 0px;
+margin-left: 0px; 
+margin-right: 0px; 
+margin-bottom: 10px;
+align-content: center;
+margin-bottom: 200px;
+    
+    }
+
+
+h1 {
+   text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-size: 30px;
+    margin-bottom: 50px;
+    
+}
+
+.page1 {
+background-image:url(../images/page1.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page2 {
+background-image:url(../images/page2.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page3 {
+background-image:url(../images/page3.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page4 {
+background-image:url(../images/page4.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+
+
+.page5 {
+background-image:url(../images/page5.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page6 {
+background-image: url(../images/page6.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page7 {
+background-image:url(../images/page7.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page8 {
+background-image:url(../images/page8.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page9 {
+background-image:url(../images/page9.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page10 {
+background-image:url(../images/page10.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+
+.page11 {
+background-image:url(../images/page11.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page12 {
+background-image: url(../images/page12.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page13 {
+background-image:url(../images/page13.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page14 {
+background-image:url(../images/page14.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page15 {
+background-image: url(../images/page15.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page16 {
+background-image: url(../images/page16.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page17 {
+background-image:url(../images/page17.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page18 {
+background-image:url(../images/page18.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page19 {
+background-image:url(../images/page19.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+}
+
+.page20 {
+background-image:url(../images/page20.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page21 {
+background-image:url(../images/page21.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page22 {
+background-image: url(../images/page22.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page23 {
+background-image:url(../images/page23.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page24 {
+background-image:url(../images/page24.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page25 {
+background-image: url(../images/page25.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page26 {
+background-image: url(../images/page26.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+
+
+}
+
+.page27 {
+background-image:url(../images/page27.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page28 {
+background-image:url(../images/page28.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page29 {
+background-image:url(../images/page29.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+
+}
+
+.page30 {
+background-image:url(../images/page30.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+    
+}
+
+.page31 {
+background-image:url(../images/page31.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+    
+}
+
+.page32 {
+background-image:url(../images/page32.jpg);
+min-width: 600px;
+min-height: 1080px;
+background-color: white;
+background-position: center;
+background-repeat: no-repeat;
+align-content: center;
+background-repeat: no-repeat;
+background-size: contain;
+    
+}
+
+.music{
+background-position: center;
+padding-top:50px;
+padding-bottom: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+    
+}
+
+.music1{
+background-position: center;
+padding-top:150px;
+padding-bottom: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+    
+}
+
+.music2{
+background-position: center;
+padding-top:950px;
+padding-bottom: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+    
+}
+
+.music3{
+background-position: center;
+padding-top:810px;
+padding-bottom: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+    
+}
+
+.music4{
+background-position: center;
+padding-top:600px;
+padding-bottom: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+    
+}
+
+.music5{
+background-position: center;
+padding-top:900px;
+padding-bottom: 50px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+    
+}
+
+.footerphoto {
+background-image: url(../images/header.jpg);
+background-size:contain;
+background-position: center;
+background-repeat: no-repeat;
+min-height: 500px;
+min-width: 400px;
+margin-top: 0px;
+margin-left: 0px; 
+margin-right: 0px; 
+margin-bottom: 10px;
+align-content: center;
+margin-top: 100px;
+    
+    }
+
+.footer {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    font-family: 'Fredoka One', cursive;
+min-height:51px;
+  background-color:transparent;
+        color: blueviolet;
+display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.footer2 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    font-family: 'Fredoka One', cursive;
+min-height:51px;
+  background-color:transparent;
+        color: blueviolet;
+display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer3 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: left;
+    font-family: 'Fredoka One', cursive;
+min-height:51px;
+  background-color:transparent;
+        color:blueviolet;
+    display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
